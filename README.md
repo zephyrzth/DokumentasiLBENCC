@@ -1,4 +1,4 @@
-# DokumentasiLBENCC
+# Dokumentasi LBE NCC
 
 # Pertemuan 1
 #Waktu Pelaksanaan LBE
